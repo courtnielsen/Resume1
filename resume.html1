@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Court</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Sacramento&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Sacramento&display=swap" rel="stylesheet">
+
+</head>
+
+<body style="background-color:white">
+  <div class="top-container">
+    <img class="cloud"src="images/cloud.png" alt="">
+    <h1 line height=2 style="font-family:'Sacramento',cursive">I'm Court.</h1>
+    <p style="color:#66BFBF;font-weight:normal;"> <strong>An elementary teacher.</strong>
+   </p>
+    <img class="cloud2" src="images/cloud.png" alt="">
+    <img style="display:inline-block;" src="images/mountain.png" alt="">
+  </div>
+
+  <div class="middle-container">
+    <div class="profile">
+      <img class="kangaroo" src="family.jpg" alt="">
+      <h2>Hello!</h2>
+      <p style="padding-bottom:60px;">My name is Jeff, and I am an elementary teacher. </p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2 style="font-weight:bold;">Experience and Certifications</h2>
+      <div class="skill-row">
+        <img class="computer" style="float: left"src="school.jpg" alt="school">
+        <h3 style="line-height:1;">
+          PE Teacher/Education Support Professional at Eastlake Elementary
+        </h3>
+        <p>(2018-2020) I taught PE classes at Eastlake Elementary in Jordan District for grades K-6. I was responsible for creating lessons that meet the needs of all students, managing classroom behavior, adapting instruction to highlight students' abilities, and collaborating with classroom teachers/administration to... </p>
+      </div>
+      <div class="skill-row">
+        <img class="communication" style="float: right"src="download.jpg" alt="">
+        <h3>Praxis and Licensure</h3>
+        <p><span class="bold">Licensure:</span> In the process of receiving Associate Educator License from USBE. <br> Praxis Cirriculum, Instructiom, and Assessment:194 <br>
+            <span class="bold">Praxis Multiple Subjects:</span> <br>Math: 195, Science: 184, English:195, Social Studies: 195 <br>
+        <span class="bold"> Praxis Principles of Learning and Teaching:</span>184</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get in Touch</h2>
+      <h3 style="line-height:2">If you love donuts as much as I do.</h3>
+      <p>Have a love of donuts that can't be replaced? Contact me. We can chat while eating donuts.</p>
+      <a class="btn" href="mailto:jeffnielsenandtheskymiles@outlook.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+    <a class="footer-link" href="https://twitter.com/">Twitter</a>
+    <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+    <br>
+    <br>
+    <p>© 2018 Court Inc.</p>
+  </div>
+
+</body>
+
+</html>
